@@ -63,6 +63,17 @@ My personal portfolio showcasing my development profile, skills, and projects.
 - **Live website:** [emmanuel-alao-portfolio.vercel.app](https://emmanuel-alao-portfolio.vercel.app/)
 - **Source code:** [GitHub Repository](https://github.com/emmy-tech247/emmanuel-alao-portfolio)
 
+## Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### Login Page
+![Login Page](./screenshots/login-page.png)
+
+### Member Dashboard
+![Member Dashboard](./screenshots/member-dashboard.png)
+
 ## 🎯 What I Can Help With
 
 - Responsive business websites
