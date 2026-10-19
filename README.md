@@ -66,13 +66,13 @@ My personal portfolio showcasing my development profile, skills, and projects.
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./admin-dashboard.png)
 
 ### Login Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./login-page.png)
 
 ### Member Dashboard
-![Member Dashboard](./screenshots/member-dashboard.png)
+![Member Dashboard](./member-dashboard.png)
 
 ## 🎯 What I Can Help With
 
