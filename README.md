@@ -72,7 +72,7 @@ My personal portfolio showcasing my development profile, skills, and projects.
 ![Login Page](./screenshots/login-page.png)
 
 ### Home Page Dashboard
-![Member Dashboard](./screenshots/home-page.png)
+![Home Page Dashboard](./screenshots/home-page.png)
 
 ## 🎯 What I Can Help With
 
